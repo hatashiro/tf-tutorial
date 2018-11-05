@@ -115,3 +115,6 @@ dmypy.json
 
 # Ignore VS Code config
 .vscode
+
+# Data
+/data

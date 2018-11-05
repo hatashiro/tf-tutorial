@@ -13,6 +13,12 @@ $ pip install tensorflow
 $ pip install scikit-image
 ```
 
+Download Belgium traffic sign dataset:
+
+```shell
+./download_data.sh
+```
+
 Run:
 
 ```shell
